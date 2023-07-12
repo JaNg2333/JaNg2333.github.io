@@ -84,7 +84,7 @@ author:
   avatar           : "person.png"
   bio              : "Employed as a Engineering Technologist at QY Lab"
   location         : "China Beijing"
-  employer         : "QY Lab"
+  employer         : #"QY Lab"
   pubmed           : 
   googlescholar    : 
   email            : #"j_baowei@163.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/JaNg2333"
+  github           : "JaNg2333"
   google_plus      :
   keybase          :
   instagram        :
