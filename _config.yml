@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Baowei Jiang's Home Page"
+title                    : "Baowei Jiang/Home Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
