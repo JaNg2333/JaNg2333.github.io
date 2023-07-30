@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-QY Labs Engineer.
+
+Engineer @ QY Lab
 
 My major is computational mathematics, and my research area is computer vision and discrete differential geometry.
 
